@@ -1,8 +1,8 @@
 # Titanic_survival_prediction_ML
-
+<br>
 This README outlines the steps involved in building and evaluating a machine learning model, starting from preprocessing to final evaluation.
 
-## 1. Preprocessing
+### 1. Preprocessing
 
 ### 1.1 Loading the Data
 - Train dataset: Contains features and target variable (`Survived` for Titanic dataset).
